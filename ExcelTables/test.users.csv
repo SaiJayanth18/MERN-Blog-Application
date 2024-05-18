@@ -1,0 +1,5 @@
+_id,username,photo,email,password,role,readList[0],readList[1],readListLength,createdAt,updatedAt,__v,resetPasswordExpire,resetPasswordToken
+65340caa03759a7afa4d2313,Sai Jayanth Jampa,photo_user_65340caa03759a7afa4d2313.jpeg,saijayanthjampa@gmail.com,$2a$10$kSzMufNuGr3T2wRnVnwSZ./bcYUjuSYsKTGS2ojBLngRr1KeA4rU.,user,653434f203759a7afa4d23af,653adc70d29771de1f04482a,2,2023-10-21T17:38:50.669Z,2023-10-26T21:50:37.863Z,10,,
+6534371103759a7afa4d2434,Nani,user.png,nani@gmail.com,$2a$10$kL7f2YEWKvfSaaU40ixtBeUQ1hvVmbn5uWKc/XsTZ4GkjKh3SZbh2,user,653434f203759a7afa4d23af,,1,2023-10-21T20:39:45.702Z,2023-10-22T08:18:58.645Z,1,2023-10-22T09:18:58.643Z,345fbca1757f3fb456947e2a80a815d40fc520a1fe482ccd2a8fcd52ca410cfb
+6534d9c5923cc5781d97b751,Jyothi,user.png,jyothi@gmail.com,$2a$10$ekQtu2W17OZF7IbsJT3Ab.TkfTxcmK4rfiTtFwfJH1nHaM25J7kdW,user,,,0,2023-10-22T08:13:57.239Z,2023-10-22T08:13:57.239Z,0,,
+653ad708d29771de1f0447c4,Surendranath,user.png,surendranath@gmail.com,$2a$10$F6yGH8Z9K7TLyCYxAm0V3.X0WKcw6zEhn.wNLb/nuSWxh7lkYX1XK,user,,,0,2023-10-26T21:15:52.974Z,2023-10-26T21:15:52.974Z,0,,
